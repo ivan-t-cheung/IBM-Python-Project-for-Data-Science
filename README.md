@@ -1,6 +1,6 @@
 # IBM-Python-Project-for-Data-Science
 
-This repository contains the Jupyter notebook submission for the final assessment of the IBM Python Project for Data Science course.
+This repository contains the Jupyter notebooks used to complete assignments from the IBM Python Project for Data Science course.
 
 **Author:** Ivan Cheung
 
